@@ -1,0 +1,17 @@
+Go to azure.com
+Click on create a resource
+Select Web App
+Create new resource group
+Select code in Publish
+Select OS
+Select Region
+In SKu and Size select Free F1 1Gb memory
+Click on Review + Create
+Once Deployed click on Go to Resources
+Click on Deployment Center on the left tab
+In Deployment Center We have the following options(Azure Repos, GitHub, BitBucket,LocalGit)
+Select GitHub and click Continue
+Select App Service build service and click Continue
+Write Organization name as the name of Git Username,Repositoryname, Branch name.
+Click on continue and then finish.
+Wait for 5-10 Mintunes to complete Deployment 
